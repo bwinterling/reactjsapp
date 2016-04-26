@@ -1,0 +1,19 @@
+{
+  "name": "reactjsapp",
+  "version": "1.0.0",
+  "description": "Just messing around with ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwinterling/reactjsapp.git"
+  },
+  "author": "Brian Winterling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwinterling/reactjsapp/issues"
+  },
+  "homepage": "https://github.com/bwinterling/reactjsapp#readme"
+}
