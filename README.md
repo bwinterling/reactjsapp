@@ -2,6 +2,7 @@
 Just messing around with React
 
 ## build
+Run `npm install` from the root directory to install dependencies.
 Uses webpack to build the dist: `npm run webpack`
 
 ## running tests
